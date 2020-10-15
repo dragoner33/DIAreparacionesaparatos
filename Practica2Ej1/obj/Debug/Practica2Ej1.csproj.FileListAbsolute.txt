@@ -1,0 +1,5 @@
+C:\Users\jorgi\RiderProjects\Practica2Ej1\Practica2Ej1\bin\Debug\Practica2Ej1.exe
+C:\Users\jorgi\RiderProjects\Practica2Ej1\Practica2Ej1\bin\Debug\Practica2Ej1.pdb
+C:\Users\jorgi\RiderProjects\Practica2Ej1\Practica2Ej1\obj\Debug\Practica2Ej1.csprojResolveAssemblyReference.cache
+C:\Users\jorgi\RiderProjects\Practica2Ej1\Practica2Ej1\obj\Debug\Practica2Ej1.exe
+C:\Users\jorgi\RiderProjects\Practica2Ej1\Practica2Ej1\obj\Debug\Practica2Ej1.pdb
