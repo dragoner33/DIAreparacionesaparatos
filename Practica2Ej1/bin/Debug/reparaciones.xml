@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reparacion>
+  <Radio>
+    <Modelo>mimodelo</Modelo>
+    <Numero_de_serie>5432345</Numero_de_serie>
+    <Bandas>20</Bandas>
+    <Precio_de_la_reparacion_por_hora>10</Precio_de_la_reparacion_por_hora>
+    <Tiempo_que_dura_la_reparacion>40</Tiempo_que_dura_la_reparacion>
+  </Radio>
+</reparacion>

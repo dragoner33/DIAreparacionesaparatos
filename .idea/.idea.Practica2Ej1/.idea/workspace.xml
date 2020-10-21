@@ -10,9 +10,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/jorgi/RiderProjects/Practica2Ej1/Practica2Ej1/adaptadorTDT.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -25,6 +22,13 @@
         <option value="$PROJECT_DIR$/Practica2Ej1/Reparacion.cs" />
         <option value="$PROJECT_DIR$/Practica2Ej1/Program.cs" />
         <option value="$PROJECT_DIR$/Practica2Ej1/Sustitucion.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Core/adaptadorTDT.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Ui/MainWindowView.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Core/Compleja.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Core/Sustitucion.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Ui/MainWindowCtrl.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Core/Reparacion.cs" />
+        <option value="$PROJECT_DIR$/Practica2Ej1/Ui/Program.cs" />
       </list>
     </option>
   </component>
@@ -68,6 +72,13 @@
       <updated>1602663968000</updated>
       <workItem from="1602663973571" duration="6726000" />
       <workItem from="1602756732741" duration="55000" />
+      <workItem from="1602771042149" duration="5320000" />
+      <workItem from="1602844179489" duration="10161000" />
+      <workItem from="1603127607191" duration="167000" />
+      <workItem from="1603202521295" duration="347000" />
+      <workItem from="1603202969247" duration="18670000" />
+      <workItem from="1603291972292" duration="535000" />
+      <workItem from="1603292527622" duration="3450000" />
     </task>
     <servers />
   </component>
@@ -80,29 +91,41 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1602689644050">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1603295979548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602689644050" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1602689644050">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603295979548" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1603295979548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602689644050" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1602689644050">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603295979548" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1603295979548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602689644050" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1602689644050">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603295979548" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1603295979548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602689644050" />
-    <state x="510" y="108" key="RiderGenerateDialog" timestamp="1602688589071">
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603295979548" />
+    <state x="392" y="162" key="Rider.ProjectTemplateDialog.Size" timestamp="1602771276255">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="510" y="108" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1602688589071" />
+    <state x="392" y="162" key="Rider.ProjectTemplateDialog.Size/0.0.1600.860@0.0.1600.860" timestamp="1602771276255" />
+    <state x="574" y="107" key="RiderGenerateDialog" timestamp="1603208667279">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="574" y="107" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1603208667279" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602756787265">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1602756787265" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1603295765506">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1603295765506" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1603280459621">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1603280459621" />
   </component>
 </project>

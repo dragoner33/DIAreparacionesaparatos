@@ -6,21 +6,27 @@
     <e p="C:\Users\jorgi\RiderProjects\Practica2Ej1" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Practica2Ej1" t="IncludeRecursive">
-        <e p="adaptadorTDT.cs" t="Include" />
-        <e p="Aparato.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Compleja.cs" t="Include" />
+        <e p="Core" t="Include">
+          <e p="adaptadorTDT.cs" t="Include" />
+          <e p="Aparato.cs" t="Include" />
+          <e p="Compleja.cs" t="Include" />
+          <e p="Radio.cs" t="Include" />
+          <e p="Reparacion.cs" t="Include" />
+          <e p="RepreductorDVD.cs" t="Include" />
+          <e p="Sustitucion.cs" t="Include" />
+          <e p="Televisor.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Practica2Ej1.csproj" t="IncludeRecursive" />
-        <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
-        <e p="Radio.cs" t="Include" />
-        <e p="Reparacion.cs" t="Include" />
-        <e p="RepreductorDVD.cs" t="Include" />
-        <e p="Sustitucion.cs" t="Include" />
-        <e p="Televisor.cs" t="Include" />
+        <e p="Ui" t="Include">
+          <e p="MainWindowCtrl.cs" t="Include" />
+          <e p="MainWindowView.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
       </e>
       <e p="Practica2Ej1.sln" t="IncludeFlat" />
     </e>
